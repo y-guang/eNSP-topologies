@@ -13,3 +13,11 @@ Although the tutorial is taught in Chinese, all the project's content is in Engl
 绘制拓扑图的工具是华为的eNSP. 此处不谈政治, 非常感谢这款强悍的工具.
 
 由于官方提供了中文版的全套资料, 重复是无意义的. 因此, 所有内容以英文撰写, 以供任何需要英文信息的朋友比对查找.
+
+## eNSP Install
+
+Recommend installing eNSP in a clean Windows 10 VM environment. 
+
+For downloading and installing, see the video [Installing Huawei eNSP on Windows 11 in 2023](https://youtu.be/VdoiLSJg2iQ). 
+
+(Please follow exactly sequence the YouTuber suggested. Any minor violation could cause the installation to fail. Wow, I am really Skinner's pigeon!)

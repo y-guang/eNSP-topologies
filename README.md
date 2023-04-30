@@ -14,6 +14,15 @@ Although the tutorial is taught in Chinese, all the project's content is in Engl
 
 由于官方提供了中文版的全套资料, 重复是无意义的. 因此, 所有内容以英文撰写, 以供任何需要英文信息的朋友比对查找.
 
+## Project Structure
+
+Each folder under the root is corresponding to one type of topology.
+
+In each folder, 
+
+- a markdown file with the same name as the parent folder keeps all note.
+- a child folder with the same name as the parent folder keeps the eNSP file.
+
 ## eNSP Install
 
 Recommend installing eNSP in a clean Windows 10 VM environment. 
